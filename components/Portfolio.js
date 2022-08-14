@@ -2,7 +2,7 @@ import React, {useState ,useEffect} from 'react'
 import { BsThreeDotsVertical } from 'react-icons/bs'
 import styled from 'styled-components'
 import { coins } from '../static/coins'
-import Coin from './coin'
+import Coin from './Coin'
 import BalanceChart from './BalanceChart'
 import { ThirdwebSDK } from '@3rdweb/sdk'
 
